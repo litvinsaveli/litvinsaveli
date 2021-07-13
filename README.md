@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @litvinsaveli
 - 👀 I’m interested in python, DataScience
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, sql
 - 📫 How to reach me litvinsavva@icloud.com
 
 <!---
